@@ -4,9 +4,9 @@ using namespace std;
 int main() {
   
 // == DO NOT CHANGE THE MAIN PROGRAM =================
-   Student std1;
-   std1.assignDetails(1212, "Amalinga");
-   std1.display();
+   Student mystd;
+   mystd.assignDetails(1212, "Amalinga");
+   mystd.display();
 //==========================
    return 0;
 }
